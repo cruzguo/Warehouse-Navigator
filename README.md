@@ -1,0 +1,3 @@
+Using A*, a mixture of Uniform Cost Search and Dijkstra's algorithm, me and my partner created an application that can localize and find the location of boxes to pick up. This application is designed, so we do not know where we will start at. However, we do know where the 
+boxes are, where the drop zones are, and the size of the map as well as any obstacles that could be in the way. The application finds the best path based on the cost of each move as the robot takes a step. THe main goal of the application is to grab each box and drop it 
+off at the drop zone in order in the shortest movement cost and shortest amount of time. 
